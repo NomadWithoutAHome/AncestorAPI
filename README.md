@@ -1,5 +1,5 @@
 # AncestorAPI
- Darkest Dungeon, Ancestor Qoute API
+ Darkest Dungeon, Qoute API
 
 Live API:
 [here](https://ancestrapi.nobss.online/docs#/)
