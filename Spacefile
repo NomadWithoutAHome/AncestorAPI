@@ -1,0 +1,12 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: pythonProject15
+    src: ./
+    engine: python3.9
+    primary: true
+    public: true
+    include:
+    - main.py
+    - helpers.py
+    - static/
